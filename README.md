@@ -30,38 +30,5 @@ Este projeto é um sistema simples para gerenciar produtos e vendas em uma loja,
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/seurepositorio.git
-cd seurepositorio
-Crie e ative um ambiente virtual:
-
-bash
-Copiar
-Editar
-python -m venv venv
-# Windows
-venv\Scripts\activate
-# Linux/Mac
-source venv/bin/activate
-Instale as dependências:
-
-bash
-Copiar
-Editar
-pip install -r requirements.txt
-Configure seu banco de dados em sql/db.py (dados de conexão).
-
-Execute o programa principal:
-
-bash
-Copiar
-Editar
-python main.py
-Estrutura do projeto
-bash
-Copiar
-Editar
-├── acoes/               # Funções para operações no banco
-├── sql/                 # Configuração do banco de dados e scripts SQL
-├── main.py              # Script principal com o menu interativo
-├── requirements.txt     # Dependências do projeto
-└── README.md            # Este arquivo
+git clone https://github.com/m7zz/projeto-estoque
+```
